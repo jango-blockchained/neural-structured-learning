@@ -1,5 +1,6 @@
 # TODO(ppham27): describe this package.
-# Placeholder for internal Python strict compatibility macro.
+
+# Placeholder for loading py_library
 
 package(
     default_applicable_licenses = ["//neural_structured_learning:license"],

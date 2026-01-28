@@ -12,8 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Placeholder for internal Python strict & test compatibility macro.
+# Placeholder for internal Python strict test compatibility macro.
 # Placeholder for loading py_binary
+# Placeholder for loading py_library
 
 # Description:
 # Build rules for tools in Neural Structured Learning.

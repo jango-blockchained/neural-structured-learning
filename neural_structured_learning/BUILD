@@ -16,7 +16,7 @@
 # Build rules for TensorFlow Neural Structured Learning.
 
 # Internal annotation for sync
-# Placeholder for internal Python strict compatibility macro.
+# Placeholder for loading py_library
 load("@rules_license//rules:license.bzl", "license")
 
 package(

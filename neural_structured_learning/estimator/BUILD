@@ -15,7 +15,8 @@
 # Description:
 # Build rules for Estimator APIs in Neural Structured Learning.
 
-# Placeholder for internal Python strict & test compatibility macro.
+# Placeholder for internal Python strict test compatibility macro.
+# Placeholder for loading py_library
 
 package(
     default_applicable_licenses = ["//neural_structured_learning:license"],
